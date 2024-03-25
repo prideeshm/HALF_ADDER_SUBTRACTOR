@@ -75,3 +75,4 @@ Developed by:Prideesh M RegisterNumber:212223040154
 ![Screenshot 2024-03-25 084531](https://github.com/prideeshm/HALF_ADDER_SUBTRACTOR/assets/144870483/b6a6d04a-e4c2-49bb-a571-8bf38f4fea13)
 
 **Result:**
+Implementation-of-Half-Adder-and-Half Subtractor-circuit is excuted sucessfully.
